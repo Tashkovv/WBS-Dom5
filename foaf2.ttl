@@ -1,14 +1,14 @@
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix ns0: <http://webns.net/mvcb/> .
 
-<https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf2.ttl>
+<https://raw.githubusercontent.com/Tashkovv/WBS-Dom5/master/foaf2.ttl>
   a foaf:PersonalProfileDocument ;
-  foaf:maker <https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf2.ttl#me> ;
-  foaf:primaryTopic <https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf2.ttl#me> ;
+  foaf:maker <https://raw.githubusercontent.com/Tashkovv/WBS-Dom5/master/foaf2.ttl#me> ;
+  foaf:primaryTopic <https://raw.githubusercontent.com/Tashkovv/WBS-Dom5/master/foaf2.ttl#me> ;
   ns0:generatorAgent <http://www.ldodds.com/foaf/foaf-a-matic> ;
   ns0:errorReportsTo <mailto:leigh@ldodds.com> .
 
-<https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf2.ttl#me>
+<https://raw.githubusercontent.com/Tashkovv/WBS-Dom5/master/foaf2.ttl#me>
   a foaf:Person ;
   foaf:name "Gjorgi Popov" ;
   foaf:title "Mr" ;
@@ -16,7 +16,7 @@
   foaf:family_name "Popov" ;
   foaf:nick "Dzordz" ;
   foaf:mbox_sha1sum "a633c286070beb3e993d6076c345dd878c7d442c" ;
-  foaf:homepage <https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/facebook.com/popov.g> ;
+  foaf:homepage <https://raw.githubusercontent.com/Tashkovv/WBS-Dom5/master/facebook.com/popov.g> ;
   foaf:phone <tel:075556225> ;
   foaf:schoolHomepage <https://www.finki.ukim.mk/> ;
   foaf:knows [

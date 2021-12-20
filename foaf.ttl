@@ -1,14 +1,14 @@
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix ns0: <http://webns.net/mvcb/> .
 
-<https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf.ttl>
+<https://raw.githubusercontent.com/Tashkovv/WBS-Dom5/master/foaf.ttl>
   a foaf:PersonalProfileDocument ;
-  foaf:maker <https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf.ttl#me> ;
-  foaf:primaryTopic <https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf.ttl#me> ;
+  foaf:maker <https://raw.githubusercontent.com/Tashkovv/WBS-Dom5/master/foaf.ttl#me> ;
+  foaf:primaryTopic <https://raw.githubusercontent.com/Tashkovv/WBS-Dom5/master/foaf.ttl#me> ;
   ns0:generatorAgent <http://www.ldodds.com/foaf/foaf-a-matic> ;
   ns0:errorReportsTo <mailto:leigh@ldodds.com> .
 
-<https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf.ttl#me>
+<https://raw.githubusercontent.com/Tashkovv/WBS-Dom5/master/foaf.ttl#me>
   a foaf:Person ;
   foaf:name "Jovan Tashkov" ;
   foaf:title "Mr" ;
@@ -16,7 +16,7 @@
   foaf:family_name "Tashkov" ;
   foaf:nick "Jovco" ;
   foaf:mbox_sha1sum "caccd3082837a72f879dddeb5f6d8fae36ad47e5" ;
-  foaf:homepage <https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/facebook.com/tashkov.j> ;
+  foaf:homepage <https://raw.githubusercontent.com/Tashkovv/WBS-Dom5/master/facebook.com/tashkov.j> ;
   foaf:phone <tel:075500000> ;
   foaf:schoolHomepage <https://www.finki.ukim.mk/> ;
   foaf:knows [
