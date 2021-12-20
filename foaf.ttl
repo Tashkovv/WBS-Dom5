@@ -1,0 +1,30 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns0: <http://webns.net/mvcb/> .
+
+<https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf.ttl>
+  a foaf:PersonalProfileDocument ;
+  foaf:maker <https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf.ttl#me> ;
+  foaf:primaryTopic <https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf.ttl#me> ;
+  ns0:generatorAgent <http://www.ldodds.com/foaf/foaf-a-matic> ;
+  ns0:errorReportsTo <mailto:leigh@ldodds.com> .
+
+<https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/foaf.ttl#me>
+  a foaf:Person ;
+  foaf:name "Jovan Tashkov" ;
+  foaf:title "Mr" ;
+  foaf:givenname "Jovan" ;
+  foaf:family_name "Tashkov" ;
+  foaf:nick "Jovco" ;
+  foaf:mbox_sha1sum "caccd3082837a72f879dddeb5f6d8fae36ad47e5" ;
+  foaf:homepage <https://raw.githubusercontent.com/Tashkovv/WBS-Lab5/main/facebook.com/tashkov.j> ;
+  foaf:phone <tel:075500000> ;
+  foaf:schoolHomepage <https://www.finki.ukim.mk/> ;
+  foaf:knows [
+    a foaf:Person ;
+    foaf:name "Tashko" ;
+    foaf:mbox_sha1sum "bf36f3f9af9fcea394b043c4eeca43ff894ff42b"
+  ], [
+    a foaf:Person ;
+    foaf:name "Gjorgi" ;
+    foaf:mbox_sha1sum "a633c286070beb3e993d6076c345dd878c7d442c"
+  ] .
