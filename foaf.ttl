@@ -21,8 +21,13 @@
   foaf:schoolHomepage <https://www.finki.ukim.mk/> ;
   foaf:knows [
     a foaf:Person ;
+    foaf:name "Jane" ;
+    foaf:mbox_sha1sum "fc86aa56c93baa6cbffbfedee5cdce9bcfa48dea" ;
+    rdfs:seeAlso <https://raw.githubusercontent.com/JaneStojilkov/Foaf/main/foaf.ttl> 
+  ], [
+    a foaf:Person ;
     foaf:name "Tashko" ;
-    foaf:mbox_sha1sum "bf36f3f9af9fcea394b043c4eeca43ff894ff42b"
+    foaf:mbox_sha1sum "bf36f3f9af9fcea394b043c4eeca43ff894ff42b" 
   ], [
     a foaf:Person ;
     foaf:name "Gjorgi" ;
