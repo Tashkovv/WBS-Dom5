@@ -11,6 +11,14 @@
                                  rdfs:seeAlso       <https://raw.githubusercontent.com/JaneStojilkov/Foaf/main/foaf.ttl> ;
                                  foaf:mbox_sha1sum  "fc86aa56c93baa6cbffbfedee5cdce9bcfa48dea" ;
                                  foaf:name          "Jane"
+                               ],
+                               [ a                foaf:Person ;
+                                 foaf:mbox_sha1sum  "hs64be83c92asb6chafbfedee5cdce9bcfa68dea" ;
+                                 foaf:name          "Tashko"
+                               ],
+                               [ a                  foaf:Person ;
+                                 foaf:mbox_sha1sum  "ub94be82c92ass6chagbhedee5wkcy7bcja64dsa" ;
+                                 foaf:name          "Gjorgi"
                                ] ;
         foaf:mbox_sha1sum      "caccd3082837a72f879dddeb5f6d8fae36ad47e5" ;
         foaf:name              "Jovan Tashkov" ;
